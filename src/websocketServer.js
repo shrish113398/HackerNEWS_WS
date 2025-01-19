@@ -42,7 +42,7 @@ class WebSocketServer {
 
         const fetchAndProcess = async () => {
             try {
-                const articles = await fetchArticles(1); 
+                const articles = await fetchArticles(1);
 
                 await saveArticlesToDB(connection, articles);
 

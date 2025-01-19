@@ -104,7 +104,7 @@ async function scrapeAndSave(pages, connection, wsServer) {
 }
 
 async function main() {
-    const connection = await connectDB(); 
+    const connection = await connectDB();
     const wsServer = new WebSocketServer(8080);
     console.log('WebSocket server started on port 8080');
 

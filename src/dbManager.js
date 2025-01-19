@@ -1,10 +1,12 @@
+require("dotenv").config(); // Load environment variables from .env
+
 const mysql = require("mysql2/promise");
 
 const dbConfig = {
-    host: "localhost",
-    user: "root",
-    password: "masu@&16",
-    database: "hackernews",
+    host: process.env.DB_HOST || "localhost",
+    user: process.env.DB_USER || "root",
+    password: process.env.DB_PASSWORD || "",
+    database: process.env.DB_NAME || "hackernews",
 };
 
 /**
@@ -46,7 +48,7 @@ async function saveArticlesToDB(connection, articles) {
 
         const filteredArticles = articles.filter(article => {
             const postedTime = parsePostedTime(article.time);
-            return postedTime && (now - postedTime) / (1000 * 60) <= 5; 
+            return postedTime && (now - postedTime) / (1000 * 60) <= 5;
         });
 
         const query = `
@@ -96,7 +98,7 @@ function parsePostedTime(postedTimeStr) {
         case "hours":
             return new Date(now.getTime() - timeValue * 60 * 60 * 1000);
         default:
-            return null; 
+            return null;
     }
 }
 
