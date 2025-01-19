@@ -97,6 +97,7 @@ project/
 - `dbManager.js`: Manages database connections and operations
 - `fetcher.js`: Handles article scraping from Hacker News
 - `fileManager.js`: Manages file system operations for saving articles
+- `index.html` : displays the most recent news updates in real time
 
 ## Features in Detail
 

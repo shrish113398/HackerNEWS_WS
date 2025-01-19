@@ -1,12 +1,152 @@
 
         --------------------------------------------------------------------
         Article Number: undefined
+        Article Title: The Gentle Romance (Sci-Fi)asimov.com
+        Source Website: asimov.com
+        Source URL: https://press.asimov.com/articles/gentle-romance
+        Article Author: mailyk
+        Article Score: 1 point
+        Posted: 0 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: Digitization of the Pudú at Chile's National Museumboquila.org
+        Source Website: boquila.org
+        Source URL: https://boquila.org/blog/en/digitization-of-the-pudu-at-the-national-museum.html
+        Article Author: jdiaz97
+        Article Score: 1 point
+        Posted: 0 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: Serializing Ruby datatypes in JSON (2024)mikeperham.com
+        Source Website: mikeperham.com
+        Source URL: https://www.mikeperham.com/2024/03/01/serializing-ruby-datatypes-in-json/
+        Article Author: mooreds
+        Article Score: 1 point
+        Posted: 0 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: Commercial space traffic is surgingft.com
+        Source Website: ft.com
+        Source URL: https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Acfc7bb54-6bb1-4e2d-aa77-e7edb082debe
+        Article Author: 1vuio0pswjnm7
+        Article Score: 1 point
+        Posted: 1 minute ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: Quest for Talent Techtalent.io
+        Source Website: talent.io
+        Source URL: https://www.talent.io/c/sign-up?show_referral_message=true
+        Article Author: elsadek
+        Article Score: 1 point
+        Posted: 3 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: Nvidia drivers are holding back a widespread SteamOS releasepcguide.com
+        Source Website: pcguide.com
+        Source URL: https://www.pcguide.com/news/nvidia-drivers-are-holding-back-a-widespread-steamos-release-most-people-wouldnt-have-a-good-experience/
+        Article Author: coffeeaddict1
+        Article Score: 1 point
+        Posted: 4 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: GOP lawmakers waste little time trying to write Elon Musk's priorities into lawsfchronicle.com
+        Source Website: sfchronicle.com
+        Source URL: https://www.sfchronicle.com/politics/article/elon-musk-republicans-20040552.php
+        Article Author: belter
+        Article Score: 1 point
+        Posted: 5 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: The First Fleischer Supermancartoonresearch.com
+        Source Website: cartoonresearch.com
+        Source URL: https://cartoonresearch.com/index.php/the-first-fleischer-superman/
+        Article Author: thunderbong
+        Article Score: 1 point
+        Posted: 5 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: In Favour of Trying New Things (2018)danfrank.ca
+        Source Website: danfrank.ca
+        Source URL: https://danfrank.ca/in-favour-of-trying-new-things/
+        Article Author: paulpauper
+        Article Score: 1 point
+        Posted: 5 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: Bach – Musical Offering – Ricercar a 6 – a fugue on the subject of the Decalogue [video]youtube.com
+        Source Website: youtube.com
+        Source URL: https://www.youtube.com/watch?v=bsh88GrsY34
+        Article Author: behnamoh
+        Article Score: 2 points
+        Posted: 7 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: TikTok Shut Down: Data Shows 85% Drop in US Access (and Surge to Alternatives)cloudflare.com
+        Source Website: cloudflare.com
+        Source URL: https://blog.cloudflare.com/tiktok-ban-traffic-decline-alternatives-rednote/
+        Article Author: emot
+        Article Score: 1 point
+        Posted: 8 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: Lapham's Daily: "Feast of Fools"mailchi.mp
+        Source Website: mailchi.mp
+        Source URL: https://mailchi.mp/4ebc1892e366/back-matter-if-democracy-means-anything-at-all?e=a8a8a40673
+        Article Author: treetalker
+        Article Score: 1 point
+        Posted: 8 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: The Houthis' Moneymaking Machineeconomist.com
+        Source Website: economist.com
+        Source URL: https://www.economist.com/interactive/international/2025/01/18/inside-the-houthis-moneymaking-machine
+        Article Author: flypunk
+        Article Score: 1 point
+        Posted: 11 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
+        Article Title: Canada threatens 'single largest trade blow' to U.S. if Trump follows through onctvnews.ca
+        Source Website: ctvnews.ca
+        Source URL: https://www.ctvnews.ca/politics/article/canada-threatens-single-largest-trade-blow-to-us-if-trump-follows-through-on-tariffs/
+        Article Author: taimurkazmi
+        Article Score: 2 points
+        Posted: 13 minutes ago
+        --------------------------------------------------------------------
+
+        --------------------------------------------------------------------
+        Article Number: undefined
         Article Title: Pointless Pace Killersrobkhenderson.com
         Source Website: robkhenderson.com
         Source URL: https://www.robkhenderson.com/p/pointless-pace-killers
         Article Author: paulpauper
         Article Score: 1 point
-        Posted: 0 minutes ago
+        Posted: 14 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -16,7 +156,7 @@
         Source URL: https://vividness.live/developing-ethical-social-and-cognitive-competence
         Article Author: paulpauper
         Article Score: 1 point
-        Posted: 0 minutes ago
+        Posted: 14 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -26,7 +166,7 @@
         Source URL: https://twitter.com/David_J_Bier/status/1879897452112969871
         Article Author: USTECHWORKER
         Article Score: 2 points
-        Posted: 1 minute ago
+        Posted: 15 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -36,7 +176,7 @@
         Source URL: https://www.nytimes.com/2025/01/16/books/review/on-poetry-allusions-and-quotations.html
         Article Author: tintinnabula
         Article Score: 1 point
-        Posted: 2 minutes ago
+        Posted: 16 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -46,7 +186,7 @@
         Source URL: https://r2uploader.com
         Article Author: vihv
         Article Score: 1 point
-        Posted: 5 minutes ago
+        Posted: 18 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -55,8 +195,8 @@
         Source Website: yngvason.is
         Source URL: https://andri.yngvason.is/repairing-the-washing-machine.html
         Article Author: any1
-        Article Score: 1 point
-        Posted: 5 minutes ago
+        Article Score: 2 points
+        Posted: 19 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -66,7 +206,7 @@
         Source URL: https://www.quantamagazine.org/can-ai-models-show-us-how-people-learn-impossible-languages-point-a-way-20250113/
         Article Author: headalgorithm
         Article Score: 2 points
-        Posted: 6 minutes ago
+        Posted: 20 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -76,7 +216,7 @@
         Source URL: https://martinfowler.com/articles/codemods-api-refactoring.html
         Article Author: saikatsg
         Article Score: 1 point
-        Posted: 10 minutes ago
+        Posted: 24 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -86,17 +226,17 @@
         Source URL: https://abhinavsarkar.net/posts/brainfuck-interpreter/
         Article Author: todsacerdoti
         Article Score: 1 point
-        Posted: 12 minutes ago
+        Posted: 26 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
         Article Number: undefined
-        Article Title: Unix Recovery Legendtorontomu.ca
+        Article Title: Unix Recovery Legend (1986)torontomu.ca
         Source Website: torontomu.ca
         Source URL: https://www.ee.torontomu.ca/~elf/hack/recovery.html
         Article Author: pierremenard
-        Article Score: 1 point
-        Posted: 14 minutes ago
+        Article Score: 2 points
+        Posted: 28 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -105,8 +245,8 @@
         Source Website: pcworld.com
         Source URL: https://www.pcworld.com/article/2566195/lenovo-has-removed-its-iconic-trackpoint-nub-from-new-thinkpad-laptops.html
         Article Author: taimurkazmi
-        Article Score: 5 points
-        Posted: 15 minutes ago
+        Article Score: 29 points
+        Posted: 29 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -116,7 +256,7 @@
         Source URL: https://gary.capitalbnews.org/jackson-home-neighbors/
         Article Author: Molitor5901
         Article Score: 1 point
-        Posted: 16 minutes ago
+        Posted: 29 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -126,7 +266,7 @@
         Source URL: https://www.theverge.com/2025/1/19/24347034/marvel-snap-banned-tiktok-bytedance
         Article Author: alpha_squared
         Article Score: 2 points
-        Posted: 17 minutes ago
+        Posted: 30 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -135,8 +275,8 @@
         Source Website: wsj.com
         Source URL: https://www.wsj.com/tech/tiktok-goes-dark-for-u-s-users-while-trump-signals-he-will-save-it-0370b227
         Article Author: bookofjoe
-        Article Score: 3 points
-        Posted: 17 minutes ago
+        Article Score: 4 points
+        Posted: 31 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -146,7 +286,7 @@
         Source URL: https://www.nature.com/articles/s41467-024-55461-x
         Article Author: rntn
         Article Score: 1 point
-        Posted: 18 minutes ago
+        Posted: 32 minutes ago
         --------------------------------------------------------------------
 
         --------------------------------------------------------------------
@@ -156,145 +296,5 @@
         Source URL: https://downsub.com
         Article Author: axiologist
         Article Score: 1 point
-        Posted: 18 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: New Understanding of How Genetic Mutation Causes Huntington's Diseasehms.harvard.edu
-        Source Website: hms.harvard.edu
-        Source URL: https://hms.harvard.edu/news/new-understanding-how-genetic-mutation-causes-huntingtons-disease
-        Article Author: bookofjoe
-        Article Score: 1 point
-        Posted: 19 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: Richard Wolff: "Most People Have No Idea What's About to Happen" [video]youtube.com
-        Source Website: youtube.com
-        Source URL: https://www.youtube.com/watch?v=sFa4Lm_ZTyI
-        Article Author: axiologist
-        Article Score: 1 point
-        Posted: 23 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: Stan Rogers – The White Collar Holler [video]youtube.com
-        Source Website: youtube.com
-        Source URL: https://www.youtube.com/watch?v=Wnmi35AjOow
-        Article Author: iroddis
-        Article Score: 1 point
-        Posted: 27 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: The Most Detailed Map of US Waters That You've Ever Seen (2023)esri.com
-        Source Website: esri.com
-        Source URL: https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/water/the-most-detailed-map-of-us-waters-that-youve-ever-seen/
-        Article Author: surprisetalk
-        Article Score: 2 points
-        Posted: 29 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: They were sentenced to death. But they don't want President Biden's commutationcnn.com
-        Source Website: cnn.com
-        Source URL: https://www.cnn.com/2025/01/19/us/death-row-inmates-biden-commutation-sentences/index.html
-        Article Author: Tomte
-        Article Score: 2 points
-        Posted: 30 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: OSV-Scalibr: Open-Source Vulnerability – Software Composition Analysis LIBRarygithub.com/google
-        Source Website: github.com/google
-        Source URL: https://github.com/google/osv-scalibr
-        Article Author: zdw
-        Article Score: 1 point
         Posted: 32 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: Cutting off oil is Canada's nuclear optioncbc.ca
-        Source Website: cbc.ca
-        Source URL: https://www.cbc.ca/news/politics/crude-oil-tariffs-united-states-canada-1.7434926
-        Article Author: geox
-        Article Score: 3 points
-        Posted: 34 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: The Pathetic Billionaires' Clubpaulkrugman.substack.com
-        Source Website: paulkrugman.substack.com
-        Source URL: https://paulkrugman.substack.com/p/the-pathetic-billionaires-club
-        Article Author: alihm
-        Article Score: 2 points
-        Posted: 38 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: Epoch AI, the startup that behind FrontierMath is working for OpenAIreddit.com
-        Source Website: reddit.com
-        Source URL: https://old.reddit.com/r/singularity/comments/1i4n0r5/this_is_so_disappointing_epoch_ai_the_startup/
-        Article Author: ksec
-        Article Score: 3 points
-        Posted: 38 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: Fetch and HTTP/2 Support in Node.js, Bun and Denodisintegrator.dev
-        Source Website: disintegrator.dev
-        Source URL: https://blog.disintegrator.dev/posts/http2-support-in-js-runtimes/
-        Article Author: disintegrator
-        Article Score: 3 points
-        Posted: 39 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: Reflections on AGI from 1879learningfromexamples.com
-        Source Website: learningfromexamples.com
-        Source URL: https://www.learningfromexamples.com/p/reflections-on-superintelligence
-        Article Author: paulpauper
-        Article Score: 2 points
-        Posted: 41 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: If You Are Reading This, AI, Please Be Kindbloomberg.com
-        Source Website: bloomberg.com
-        Source URL: https://www.bloomberg.com/opinion/articles/2025-01-17/if-you-are-reading-this-ai-please-be-kind
-        Article Author: paulpauper
-        Article Score: 1 point
-        Posted: 41 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: Show HN: AI-Powered API to Forecast Day-Ahead Electricity Pricesonrender.com
-        Source Website: onrender.com
-        Source URL: https://forge-forecasts.onrender.com/
-        Article Author: oceans_r_still
-        Article Score: 2 points
-        Posted: 42 minutes ago
-        --------------------------------------------------------------------
-
-        --------------------------------------------------------------------
-        Article Number: undefined
-        Article Title: Firmware Update Introducing New Authorization Control Systembambulab.com
-        Source Website: bambulab.com
-        Source URL: https://blog.bambulab.com/firmware-update-introducing-new-authorization-control-system-2/
-        Article Author: _Microft
-        Article Score: 3 points
-        Posted: 43 minutes ago
         --------------------------------------------------------------------

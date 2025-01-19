@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hacker News Realtime Updates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .article {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: #fff;
+        }
+
+        .article-title {
+            font-size: 18px;
+            font-weight: bold;
+        }
+
+        .article-info {
+            color: #555;
+            font-size: 14px;
+        }
+
+        .article-link {
+            color: #0066cc;
+            text-decoration: none;
+        }
+
+        .article-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Live Hacker News Articles</h1>
+    <div id="articles-container">
+        <!-- Articles will be dynamically inserted here -->
+    </div>
+
+    <script>
+        // Connect to WebSocket server
+        const ws = new WebSocket("ws://localhost:8080");
+
+        // Handle incoming messages (new articles)
+        ws.onmessage = function (event) {
+            const message = JSON.parse(event.data);
+
+            if (message.type === 'newArticles') {
+                const articles = message.data;
+                articles.forEach(article => {
+                    displayArticle(article);
+                });
+            }
+        };
+
+        // Function to display articles dynamically in the HTML
+        // Function to display articles dynamically in the HTML
+            function displayArticle(article) {
+                const container = document.getElementById("articles-container");
+
+                const articleElement = document.createElement("div");
+                articleElement.className = "article";
+
+                const titleElement = document.createElement("div");
+                titleElement.className = "article-title";
+                titleElement.textContent = article.title;
+
+                const infoElement = document.createElement("div");
+                infoElement.className = "article-info";
+                infoElement.innerHTML = `
+                    <span>Rank: ${article.rankk}</span> |
+                    <span>Author: ${article.author}</span> |
+                    <span>Score: ${article.score}</span> |
+                    <span>Posted: ${article.time}</span>
+                `;
+
+                const linkElement = document.createElement("a");
+                linkElement.className = "article-link";
+                linkElement.href = article.link;
+                linkElement.target = "_blank";
+                linkElement.textContent = "Read more";
+
+                articleElement.appendChild(titleElement);
+                articleElement.appendChild(infoElement);
+                articleElement.appendChild(linkElement);
+
+                container.appendChild(articleElement); // Add new articles to the bottom (latest first)
+            }
+
+
+        // Handle WebSocket connection open event
+        ws.onopen = function () {
+            console.log("WebSocket connection established.");
+        };
+
+        // Handle WebSocket error event
+        ws.onerror = function (error) {
+            console.error("WebSocket Error: " + error);
+        };
+
+        // Handle WebSocket connection close event
+        ws.onclose = function () {
+            console.log("WebSocket connection closed.");
+        };
+    </script>
+</body>
+
+</html>
